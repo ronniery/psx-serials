@@ -1,5 +1,5 @@
 {
-  "createdAt": "2024-05-02T09:23:34.156Z",
+  "createdAt": "2024-05-02T16:36:07.553Z",
   "serials": [
     {
       "region": "Japan",
@@ -1288,7 +1288,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Action Replay for PSX &amp; PSone" },
+      "title": { "kanji": null, "occidental": "Action Replay for PSX & PSone" },
       "system": "psx",
       "version": "",
       "edition": "Unlicensed",
@@ -1528,7 +1528,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Adiboo &amp; Paziral's Secret" },
+      "title": { "kanji": null, "occidental": "Adiboo & Paziral's Secret" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -1669,10 +1669,7 @@
     },
     {
       "region": "Europe",
-      "title": {
-        "kanji": null,
-        "occidental": "Advanced Dungeons &amp; Dragons: Iron &amp; Blood: Warriors of Ravenloft"
-      },
+      "title": { "kanji": null, "occidental": "Advanced Dungeons & Dragons: Iron & Blood: Warriors of Ravenloft" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -1681,10 +1678,7 @@
     },
     {
       "region": "USA",
-      "title": {
-        "kanji": null,
-        "occidental": "Advanced Dungeons &amp; Dragons: Iron &amp; Blood: Warriors of Ravenloft"
-      },
+      "title": { "kanji": null, "occidental": "Advanced Dungeons & Dragons: Iron & Blood: Warriors of Ravenloft" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -1693,10 +1687,7 @@
     },
     {
       "region": "USA",
-      "title": {
-        "kanji": null,
-        "occidental": "Advanced Dungeons &amp; Dragons: Iron &amp; Blood: Warriors of Ravenloft"
-      },
+      "title": { "kanji": null, "occidental": "Advanced Dungeons & Dragons: Iron & Blood: Warriors of Ravenloft" },
       "system": "psx",
       "version": "",
       "edition": "Demo",
@@ -3921,7 +3912,7 @@
       "region": "Japan",
       "title": {
         "kanji": "アークザラッドⅡ　キャラクターズ＆ワールド　ＣＧムービー　コレクション",
-        "occidental": "Arc the Lad II: Characters &amp; World CG Movie Collection"
+        "occidental": "Arc the Lad II: Characters & World CG Movie Collection"
       },
       "system": "psx",
       "version": "",
@@ -4029,7 +4020,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ＡＧアーケード・ギアーズ　イメージファイト＆Ｘ‐マルチプライ",
-        "occidental": "Arcade Gears: ImageFight &amp; XMultiply"
+        "occidental": "Arcade Gears: ImageFight & XMultiply"
       },
       "system": "psx",
       "version": "",
@@ -5059,7 +5050,7 @@
     },
     {
       "region": "Italy",
-      "title": { "kanji": null, "occidental": "Asterix &amp; Obelix contro Cesare" },
+      "title": { "kanji": null, "occidental": "Asterix & Obelix contro Cesare" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -5068,7 +5059,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Astérix &amp; Obélix Take on Caesar" },
+      "title": { "kanji": null, "occidental": "Astérix & Obélix Take on Caesar" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -5077,7 +5068,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Astérix &amp; Obélix Take on Caesar" },
+      "title": { "kanji": null, "occidental": "Astérix & Obélix Take on Caesar" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -5086,7 +5077,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Astérix &amp; Obélix Take on Caesar" },
+      "title": { "kanji": null, "occidental": "Astérix & Obélix Take on Caesar" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -6162,7 +6153,7 @@
       "region": "Japan",
       "title": {
         "kanji": "爆走兄弟レッツ＆ゴー！！　エターナルウィングス",
-        "occidental": "Bakusou Kyoudai Let's &amp; Go!! Eternal Wings"
+        "occidental": "Bakusou Kyoudai Let's & Go!! Eternal Wings"
       },
       "system": "psx",
       "version": "",
@@ -6439,7 +6430,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Barbie: Race &amp; Ride" },
+      "title": { "kanji": null, "occidental": "Barbie: Race & Ride" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -6448,7 +6439,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Barbie: Race &amp; Ride" },
+      "title": { "kanji": null, "occidental": "Barbie: Race & Ride" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -6457,7 +6448,7 @@
     },
     {
       "region": "Italy",
-      "title": { "kanji": null, "occidental": "Barbie: Race &amp; Ride" },
+      "title": { "kanji": null, "occidental": "Barbie: Race & Ride" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -6466,7 +6457,7 @@
     },
     {
       "region": "Spain",
-      "title": { "kanji": null, "occidental": "Barbie: Race &amp; Ride" },
+      "title": { "kanji": null, "occidental": "Barbie: Race & Ride" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -6475,7 +6466,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Barbie: Race &amp; Ride" },
+      "title": { "kanji": null, "occidental": "Barbie: Race & Ride" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -6742,7 +6733,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Batman &amp; Robin" },
+      "title": { "kanji": null, "occidental": "Batman & Robin" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -6751,7 +6742,7 @@
     },
     {
       "region": "Italy",
-      "title": { "kanji": null, "occidental": "Batman &amp; Robin" },
+      "title": { "kanji": null, "occidental": "Batman & Robin" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -6760,7 +6751,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Batman &amp; Robin" },
+      "title": { "kanji": null, "occidental": "Batman & Robin" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -7992,7 +7983,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ザ・ビストロ　～料理＆ワインの職人たち～",
-        "occidental": "The Bistro: Ryouri &amp; Wine no Shokunin-tachi"
+        "occidental": "The Bistro: Ryouri & Wine no Shokunin-tachi"
       },
       "system": "psx",
       "version": "",
@@ -8317,7 +8308,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ブレイズ＆ブレイドバスターズ", "occidental": "Blaze &amp; Blade Busters" },
+      "title": { "kanji": "ブレイズ＆ブレイドバスターズ", "occidental": "Blaze & Blade Busters" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -8326,7 +8317,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Blaze &amp; Blade: Eternal Quest" },
+      "title": { "kanji": null, "occidental": "Blaze & Blade: Eternal Quest" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -8335,7 +8326,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Blaze &amp; Blade: Eternal Quest" },
+      "title": { "kanji": null, "occidental": "Blaze & Blade: Eternal Quest" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -8344,7 +8335,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ブレイズ＆ブレイド", "occidental": "Blaze &amp; Blade: Eternal Quest" },
+      "title": { "kanji": "ブレイズ＆ブレイド", "occidental": "Blaze & Blade: Eternal Quest" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -9958,7 +9949,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Bugs Bunny &amp; Taz: Time Busters" },
+      "title": { "kanji": null, "occidental": "Bugs Bunny & Taz: Time Busters" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -9967,7 +9958,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Bugs Bunny &amp; Taz: Time Busters" },
+      "title": { "kanji": null, "occidental": "Bugs Bunny & Taz: Time Busters" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14035,7 +14026,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer" },
+      "title": { "kanji": null, "occidental": "Command & Conquer" },
       "system": "psx",
       "version": "",
       "edition": "Demo",
@@ -14044,7 +14035,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer (Disc 1) (GDI)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer (Disc 1) (GDI)" },
       "system": "psx",
       "version": "",
       "edition": "Original, Platinum",
@@ -14053,7 +14044,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer (Disc 2) (NOD)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer (Disc 2) (NOD)" },
       "system": "psx",
       "version": "",
       "edition": "Original, Platinum",
@@ -14062,7 +14053,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer (Disc 1) (GDI)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer (Disc 1) (GDI)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14071,7 +14062,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer (Disc 2) (NOD)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer (Disc 2) (NOD)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14080,7 +14071,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer (Disc 1) (GDI)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer (Disc 1) (GDI)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14089,7 +14080,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer (Disc 2) (NOD)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer (Disc 2) (NOD)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14098,7 +14089,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "コマンド＆コンカー　コンプリート", "occidental": "Command &amp; Conquer Complete" },
+      "title": { "kanji": "コマンド＆コンカー　コンプリート", "occidental": "Command & Conquer Complete" },
       "system": "psx",
       "version": "",
       "edition": "Taikenban",
@@ -14109,7 +14100,7 @@
       "region": "Japan",
       "title": {
         "kanji": "コマンド＆コンカー　コンプリート",
-        "occidental": "Command &amp; Conquer Complete (Disc 1) (GDI)"
+        "occidental": "Command & Conquer Complete (Disc 1) (GDI)"
       },
       "system": "psx",
       "version": "",
@@ -14121,7 +14112,7 @@
       "region": "Japan",
       "title": {
         "kanji": "コマンド＆コンカー　コンプリート",
-        "occidental": "Command &amp; Conquer Complete (Disc 2) (NOD)"
+        "occidental": "Command & Conquer Complete (Disc 2) (NOD)"
       },
       "system": "psx",
       "version": "",
@@ -14131,7 +14122,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Alarmstufe Rot (Disc 1)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Alarmstufe Rot (Disc 1)" },
       "system": "psx",
       "version": "",
       "edition": "Platinum, EA Classics, EA Classics: Value Series",
@@ -14140,7 +14131,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Alarmstufe Rot (Disc 2)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Alarmstufe Rot (Disc 2)" },
       "system": "psx",
       "version": "",
       "edition": "Platinum, EA Classics, EA Classics: Value Series",
@@ -14149,7 +14140,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Alarmstufe Rot &amp; Bloody Roar" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Alarmstufe Rot & Bloody Roar" },
       "system": "psx",
       "version": "",
       "edition": "Demo",
@@ -14160,7 +14151,7 @@
       "region": "Germany",
       "title": {
         "kanji": null,
-        "occidental": "Command &amp; Conquer: Alarmstufe Rot: Gegenschlag (Disc 1) (Die Alliierten)"
+        "occidental": "Command & Conquer: Alarmstufe Rot: Gegenschlag (Disc 1) (Die Alliierten)"
       },
       "system": "psx",
       "version": "",
@@ -14170,10 +14161,7 @@
     },
     {
       "region": "Germany",
-      "title": {
-        "kanji": null,
-        "occidental": "Command &amp; Conquer: Alarmstufe Rot: Gegenschlag (Disc 2) (Die Sowjets)"
-      },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Alarmstufe Rot: Gegenschlag (Disc 2) (Die Sowjets)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14182,7 +14170,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Alerte Rouge" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Alerte Rouge" },
       "system": "psx",
       "version": "",
       "edition": "Demo",
@@ -14191,7 +14179,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Alerte Rouge (Disc 1) (Alliés)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Alerte Rouge (Disc 1) (Alliés)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14200,7 +14188,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Alerte Rouge (Disc 2) (Soviétiques)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Alerte Rouge (Disc 2) (Soviétiques)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14209,7 +14197,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Alerte Rouge: Mission Tesla (Disc 1) (Alliés)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Alerte Rouge: Mission Tesla (Disc 1) (Alliés)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14218,10 +14206,7 @@
     },
     {
       "region": "France",
-      "title": {
-        "kanji": null,
-        "occidental": "Command &amp; Conquer: Alerte Rouge: Mission Tesla (Disc 2) (Soviétiques)"
-      },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Alerte Rouge: Mission Tesla (Disc 2) (Soviétiques)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14230,7 +14215,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Red Alert (Disc 1) (Allies)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Red Alert (Disc 1) (Allies)" },
       "system": "psx",
       "version": "",
       "edition": "Original, Platinum, EA Classics: Value Series",
@@ -14239,7 +14224,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Red Alert (Disc 2) (Soviet)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Red Alert (Disc 2) (Soviet)" },
       "system": "psx",
       "version": "",
       "edition": "Original, Platinum, EA Classics: Value Series",
@@ -14248,7 +14233,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Red Alert (Disc 1) (Allies)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Red Alert (Disc 1) (Allies)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14257,7 +14242,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Red Alert (Disc 2) (Soviet)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Red Alert (Disc 2) (Soviet)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14266,7 +14251,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Red Alert / Bloody Roar" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Red Alert / Bloody Roar" },
       "system": "psx",
       "version": "",
       "edition": "Demo",
@@ -14275,7 +14260,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Red Alert: Retaliation (Disc 1) (Allies)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Red Alert: Retaliation (Disc 1) (Allies)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14284,7 +14269,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Red Alert: Retaliation (Disc 2) (Soviet)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Red Alert: Retaliation (Disc 2) (Soviet)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14293,7 +14278,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Red Alert: Retaliation (Disc 1) (Allies)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Red Alert: Retaliation (Disc 1) (Allies)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14302,7 +14287,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Red Alert: Retaliation (Disc 2) (Soviet)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Red Alert: Retaliation (Disc 2) (Soviet)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -14311,7 +14296,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Teil 1: Der Tiberiumkonflikt" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Teil 1: Der Tiberiumkonflikt" },
       "system": "psx",
       "version": "",
       "edition": "Demo",
@@ -14320,7 +14305,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Teil 1: Der Tiberiumkonflikt (Disc 1) (GDI)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Teil 1: Der Tiberiumkonflikt (Disc 1) (GDI)" },
       "system": "psx",
       "version": "",
       "edition": "Original, Platinum",
@@ -14329,7 +14314,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Command &amp; Conquer: Teil 1: Der Tiberiumkonflikt (Disc 2) (NOD)" },
+      "title": { "kanji": null, "occidental": "Command & Conquer: Teil 1: Der Tiberiumkonflikt (Disc 2) (NOD)" },
       "system": "psx",
       "version": "",
       "edition": "Original, Platinum",
@@ -15136,7 +15121,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Crash Bash &amp; Spyro: Year of the Dragon" },
+      "title": { "kanji": null, "occidental": "Crash Bash & Spyro: Year of the Dragon" },
       "system": "psx",
       "version": "",
       "edition": "Demo",
@@ -20281,7 +20266,7 @@
     },
     {
       "region": "Spain",
-      "title": { "kanji": null, "occidental": "Disney Lilo &amp; Stitch en Problemas en el Paraíso" },
+      "title": { "kanji": null, "occidental": "Disney Lilo & Stitch en Problemas en el Paraíso" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -20290,7 +20275,7 @@
     },
     {
       "region": "Italy",
-      "title": { "kanji": null, "occidental": "Disney Lilo &amp; Stitch: Grossi Guai alle Hawaii" },
+      "title": { "kanji": null, "occidental": "Disney Lilo & Stitch: Grossi Guai alle Hawaii" },
       "system": "psx",
       "version": "",
       "edition": "Platinum",
@@ -20299,7 +20284,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "Disney Lilo &amp; Stitch: Ouragan sur Hawaï" },
+      "title": { "kanji": null, "occidental": "Disney Lilo & Stitch: Ouragan sur Hawaï" },
       "system": "psx",
       "version": "",
       "edition": "Platinum",
@@ -20308,7 +20293,7 @@
     },
     {
       "region": "Portugal",
-      "title": { "kanji": null, "occidental": "Disney Lilo &amp; Stitch: Sarilhos no Paraíso" },
+      "title": { "kanji": null, "occidental": "Disney Lilo & Stitch: Sarilhos no Paraíso" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -20779,7 +20764,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Disney's Lilo &amp; Stitch" },
+      "title": { "kanji": null, "occidental": "Disney's Lilo & Stitch" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -20788,7 +20773,7 @@
     },
     {
       "region": "Netherlands",
-      "title": { "kanji": null, "occidental": "Disney's Lilo &amp; Stitch: Heisa op Hawaï" },
+      "title": { "kanji": null, "occidental": "Disney's Lilo & Stitch: Heisa op Hawaï" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -20797,7 +20782,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Disney's Lilo &amp; Stitch: Trouble in Paradise" },
+      "title": { "kanji": null, "occidental": "Disney's Lilo & Stitch: Trouble in Paradise" },
       "system": "psx",
       "version": "",
       "edition": "Review Version",
@@ -20806,7 +20791,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Disney's Lilo &amp; Stitch: Trouble in Paradise" },
+      "title": { "kanji": null, "occidental": "Disney's Lilo & Stitch: Trouble in Paradise" },
       "system": "psx",
       "version": "",
       "edition": "Original, Platinum",
@@ -21316,7 +21301,7 @@
     },
     {
       "region": "Italy",
-      "title": { "kanji": null, "occidental": "Disney/Pixar Monsters &amp; Co.: L'Isola dello Spavento" },
+      "title": { "kanji": null, "occidental": "Disney/Pixar Monsters & Co.: L'Isola dello Spavento" },
       "system": "psx",
       "version": "",
       "edition": "Original, Promo",
@@ -21397,7 +21382,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "Disney/Pixar Monstres &amp; Cie: L'ile de l'Épouvante" },
+      "title": { "kanji": null, "occidental": "Disney/Pixar Monstres & Cie: L'ile de l'Épouvante" },
       "system": "psx",
       "version": "",
       "edition": "Platinum",
@@ -21763,7 +21748,7 @@
     },
     {
       "region": "Denmark",
-      "title": { "kanji": null, "occidental": "Disneys Lilo &amp; Stitch: Ballade på Hawaii!" },
+      "title": { "kanji": null, "occidental": "Disneys Lilo & Stitch: Ballade på Hawaii!" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -21772,7 +21757,7 @@
     },
     {
       "region": "Norway",
-      "title": { "kanji": null, "occidental": "Disneys Lilo &amp; Stitch: Hula Baluba!" },
+      "title": { "kanji": null, "occidental": "Disneys Lilo & Stitch: Hula Baluba!" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -21781,7 +21766,7 @@
     },
     {
       "region": "Sweden",
-      "title": { "kanji": null, "occidental": "Disneys Lilo &amp; Stitch: Trubbel i Paradiset" },
+      "title": { "kanji": null, "occidental": "Disneys Lilo & Stitch: Trubbel i Paradiset" },
       "system": "psx",
       "version": "",
       "edition": "Platinum",
@@ -21790,7 +21775,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Disneys Lilo &amp; Stitch: Zoff auf Hawaii" },
+      "title": { "kanji": null, "occidental": "Disneys Lilo & Stitch: Zoff auf Hawaii" },
       "system": "psx",
       "version": "",
       "edition": "Platinum",
@@ -23073,7 +23058,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ドラゴンクエストモンスターズ1・2 星降りの勇者と牧場の仲間たち",
-        "occidental": "Dragon Quest Monsters 1 &amp; 2: Hoshifuri no Yuusha to Bokujou no Nakama-tachi"
+        "occidental": "Dragon Quest Monsters 1 & 2: Hoshifuri no Yuusha to Bokujou no Nakama-tachi"
       },
       "system": "psx",
       "version": "",
@@ -23323,7 +23308,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "DragonHeart: Fire &amp; Steel" },
+      "title": { "kanji": null, "occidental": "DragonHeart: Fire & Steel" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -23332,7 +23317,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "DragonHeart: Fire &amp; Steel" },
+      "title": { "kanji": null, "occidental": "DragonHeart: Fire & Steel" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -23391,7 +23376,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ＤＲＩＦＴ　ＫＩＮＧ　首都高バトル　～土屋圭市＆坂東正明～",
-        "occidental": "Drift King Shutokou Battle: Tsuchiya Keiichi &amp; Bandou Masaaki"
+        "occidental": "Drift King Shutokou Battle: Tsuchiya Keiichi & Bandou Masaaki"
       },
       "system": "psx",
       "version": "",
@@ -23403,7 +23388,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ＤＲＩＦＴ　ＫＩＮＧ　首都高バトル　土屋圭市　＆　坂東正明",
-        "occidental": "Drift King Shutokou Battle: Tsuchiya Keiichi &amp; Bandou Masaaki"
+        "occidental": "Drift King Shutokou Battle: Tsuchiya Keiichi & Bandou Masaaki"
       },
       "system": "psx",
       "version": "",
@@ -30391,7 +30376,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Fighting Force &amp; Tomb Raider II" },
+      "title": { "kanji": null, "occidental": "Fighting Force & Tomb Raider II" },
       "system": "psx",
       "version": "",
       "edition": "Demo",
@@ -31744,7 +31729,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ザ・ファイヤーメン２　ピート＆ダニー", "occidental": "The Firemen 2: Pete &amp; Danny" },
+      "title": { "kanji": "ザ・ファイヤーメン２　ピート＆ダニー", "occidental": "The Firemen 2: Pete & Danny" },
       "system": "psx",
       "version": "",
       "edition": "Original, Human the Best",
@@ -31771,7 +31756,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Firo &amp; Klawd" },
+      "title": { "kanji": null, "occidental": "Firo & Klawd" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -31780,7 +31765,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "Firo &amp; Klawd" },
+      "title": { "kanji": null, "occidental": "Firo & Klawd" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -31789,7 +31774,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Firo &amp; Klawd" },
+      "title": { "kanji": null, "occidental": "Firo & Klawd" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -31798,7 +31783,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ファイロ＆クロード", "occidental": "Firo &amp; Klawd" },
+      "title": { "kanji": "ファイロ＆クロード", "occidental": "Firo & Klawd" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -31807,7 +31792,7 @@
     },
     {
       "region": "Spain",
-      "title": { "kanji": null, "occidental": "Firo &amp; Klawd" },
+      "title": { "kanji": null, "occidental": "Firo & Klawd" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -38584,7 +38569,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Hidden &amp; Dangerous" },
+      "title": { "kanji": null, "occidental": "Hidden & Dangerous" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -38739,7 +38724,7 @@
       "region": "Japan",
       "title": {
         "kanji": "必殺パチスロステーション４　～ニューバルＲ＆ホットロッド～",
-        "occidental": "Hissatsu Pachi-Slot Station 4: New Pulsar R &amp; Hot Rod Queen"
+        "occidental": "Hissatsu Pachi-Slot Station 4: New Pulsar R & Hot Rod Queen"
       },
       "system": "psx",
       "version": "",
@@ -38808,7 +38793,7 @@
       "region": "Japan",
       "title": {
         "kanji": "必殺パチンコステーション１０　ＥＸジャック２０００＆スーパードラゴン",
-        "occidental": "Hissatsu Pachinko Station 10: EX Jack 2000 &amp; Super Dragon"
+        "occidental": "Hissatsu Pachinko Station 10: EX Jack 2000 & Super Dragon"
       },
       "system": "psx",
       "version": "",
@@ -38886,7 +38871,7 @@
       "region": "Japan",
       "title": {
         "kanji": "必殺パチンコステーション５　～デラマイッタ＆いれてなんぼ～",
-        "occidental": "Hissatsu Pachinko Station 5: Deramaitta &amp; Irete Nanbo"
+        "occidental": "Hissatsu Pachinko Station 5: Deramaitta & Irete Nanbo"
       },
       "system": "psx",
       "version": "",
@@ -38898,7 +38883,7 @@
       "region": "Japan",
       "title": {
         "kanji": "必殺パチンコステーション６　★がきデカ＆ジャマイカ★",
-        "occidental": "Hissatsu Pachinko Station 6: Gakideka &amp; Jamaica"
+        "occidental": "Hissatsu Pachinko Station 6: Gakideka & Jamaica"
       },
       "system": "psx",
       "version": "",
@@ -38910,7 +38895,7 @@
       "region": "Japan",
       "title": {
         "kanji": "必殺パチンコステーション７　ＣＲチューミーハウスＸＬ・ＣＲバトルヒーローＶ・ファインプレー",
-        "occidental": "Hissatsu Pachinko Station 7: CR Chumy House XL &amp; CR Battle Hero V &amp; Fine Play"
+        "occidental": "Hissatsu Pachinko Station 7: CR Chumy House XL & CR Battle Hero V & Fine Play"
       },
       "system": "psx",
       "version": "",
@@ -38922,7 +38907,7 @@
       "region": "Japan",
       "title": {
         "kanji": "必殺パチンコステーション８　かましの金ちゃん ＆ それゆけ浜ちゃん",
-        "occidental": "Hissatsu Pachinko Station 8: Kamashi no Kin-chan &amp; Soreyuke Hama-chan"
+        "occidental": "Hissatsu Pachinko Station 8: Kamashi no Kin-chan & Soreyuke Hama-chan"
       },
       "system": "psx",
       "version": "",
@@ -41378,7 +41363,7 @@
       "region": "USA",
       "title": {
         "kanji": null,
-        "occidental": "Interactive Preview Plus: PS2 Launch Guide &amp; Playable GameShark Sampler"
+        "occidental": "Interactive Preview Plus: PS2 Launch Guide & Playable GameShark Sampler"
       },
       "system": "psx",
       "version": "",
@@ -41562,7 +41547,7 @@
     },
     {
       "region": "Asia",
-      "title": { "kanji": null, "occidental": "International Track &amp; Field" },
+      "title": { "kanji": null, "occidental": "International Track & Field" },
       "system": "psx",
       "version": "",
       "edition": "Born in America Europe",
@@ -41571,7 +41556,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "International Track &amp; Field" },
+      "title": { "kanji": null, "occidental": "International Track & Field" },
       "system": "psx",
       "version": "",
       "edition": "Original, Platinum",
@@ -41580,7 +41565,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "International Track &amp; Field" },
+      "title": { "kanji": null, "occidental": "International Track & Field" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -41589,7 +41574,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "International Track &amp; Field 2" },
+      "title": { "kanji": null, "occidental": "International Track & Field 2" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -41598,7 +41583,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "International Track &amp; Field 2000" },
+      "title": { "kanji": null, "occidental": "International Track & Field 2000" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -42390,7 +42375,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Jarrett &amp; Labonte Stock Car Racing" },
+      "title": { "kanji": null, "occidental": "Jarrett & Labonte Stock Car Racing" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -43310,7 +43295,7 @@
       "region": "Japan",
       "title": {
         "kanji": "実戦パチスロ必勝法！シングル　～仮面ライダー＆ギャロップ～",
-        "occidental": "Jissen Pachi-Slot Hisshouhou! Single: Kamen Rider &amp; Gallop (Disc 1) (Kamen Rider)"
+        "occidental": "Jissen Pachi-Slot Hisshouhou! Single: Kamen Rider & Gallop (Disc 1) (Kamen Rider)"
       },
       "system": "psx",
       "version": "",
@@ -43322,7 +43307,7 @@
       "region": "Japan",
       "title": {
         "kanji": "実戦パチスロ必勝法！シングル　～仮面ライダー＆ギャロップ～",
-        "occidental": "Jissen Pachi-Slot Hisshouhou! Single: Kamen Rider &amp; Gallop (Disc 2) (Gallop)"
+        "occidental": "Jissen Pachi-Slot Hisshouhou! Single: Kamen Rider & Gallop (Disc 2) (Gallop)"
       },
       "system": "psx",
       "version": "",
@@ -43734,7 +43719,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ジュンクラシックＣ．Ｃ．＆ロペ倶楽部", "occidental": "Junclassic C.C. &amp; Rope Club" },
+      "title": { "kanji": "ジュンクラシックＣ．Ｃ．＆ロペ倶楽部", "occidental": "Junclassic C.C. & Rope Club" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -44360,7 +44345,7 @@
       "region": "Japan",
       "title": {
         "kanji": "Ｋａｒａｔ　ＰＳ／ＰＳ２用　カタログ＆体験版",
-        "occidental": "Karat PS/PS2-you Catalog &amp; Taikenban"
+        "occidental": "Karat PS/PS2-you Catalog & Taikenban"
       },
       "system": "psx",
       "version": "",
@@ -45485,7 +45470,7 @@
       "region": "Japan",
       "title": {
         "kanji": "キッズステーション　ミッキー&ミニーのマジカルキッチン",
-        "occidental": "Kids Station: Mickey &amp; Minnie no Magical Kitchen"
+        "occidental": "Kids Station: Mickey & Minnie no Magical Kitchen"
       },
       "system": "psx",
       "version": "",
@@ -45497,7 +45482,7 @@
       "region": "Japan",
       "title": {
         "kanji": "キッズステーション　ミッキー&ミニーのマジカルキッチン",
-        "occidental": "Kids Station: Mickey &amp; Minnie no Magical Kitchen"
+        "occidental": "Kids Station: Mickey & Minnie no Magical Kitchen"
       },
       "system": "psx",
       "version": "",
@@ -46649,7 +46634,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ナイト＆ベイビー", "occidental": "Knight &amp; Baby" },
+      "title": { "kanji": "ナイト＆ベイビー", "occidental": "Knight & Baby" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -48242,7 +48227,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ラングリッサー　Ⅰ&Ⅱ", "occidental": "Langrisser I &amp; II" },
+      "title": { "kanji": "ラングリッサー　Ⅰ&Ⅱ", "occidental": "Langrisser I & II" },
       "system": "psx",
       "version": "",
       "edition": "Shokai Gentei Special Package",
@@ -48251,7 +48236,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ラングリッサー　Ⅰ&Ⅱ", "occidental": "Langrisser I &amp; II" },
+      "title": { "kanji": "ラングリッサー　Ⅰ&Ⅱ", "occidental": "Langrisser I & II" },
       "system": "psx",
       "version": "",
       "edition": "Original, Masaya Best, Chou Renkaban",
@@ -48262,7 +48247,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ラングリッサー４＆５　ファイナルエディション",
-        "occidental": "Langrisser IV &amp; V: Final Edition (Disc 1) (Langrisser IV Disc)"
+        "occidental": "Langrisser IV & V: Final Edition (Disc 1) (Langrisser IV Disc)"
       },
       "system": "psx",
       "version": "",
@@ -48274,7 +48259,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ラングリッサー４＆５　ファイナルエディション",
-        "occidental": "Langrisser IV &amp; V: Final Edition (Disc 2) (Langrisser V Disc)"
+        "occidental": "Langrisser IV & V: Final Edition (Disc 2) (Langrisser V Disc)"
       },
       "system": "psx",
       "version": "",
@@ -48847,7 +48832,7 @@
       "region": "Japan",
       "title": {
         "kanji": "Ｔｈｅ　Ｌｅｇｅｎｄ　ｏｆ　Ｈｅｒｏｅｓ　Ⅰ＆Ⅱ　～英雄伝説～",
-        "occidental": "The Legend of Heroes I &amp; II: Eiyuu Densetsu"
+        "occidental": "The Legend of Heroes I & II: Eiyuu Densetsu"
       },
       "system": "psx",
       "version": "",
@@ -49168,7 +49153,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Lemmings &amp; Oh No! More Lemmings" },
+      "title": { "kanji": null, "occidental": "Lemmings & Oh No! More Lemmings" },
       "system": "psx",
       "version": "",
       "edition": "Demo",
@@ -49177,7 +49162,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Lemmings &amp; Oh No! More Lemmings" },
+      "title": { "kanji": null, "occidental": "Lemmings & Oh No! More Lemmings" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -49186,7 +49171,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Lemmings &amp; Oh No! More Lemmings" },
+      "title": { "kanji": null, "occidental": "Lemmings & Oh No! More Lemmings" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -49213,7 +49198,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Lethal Enforcers I &amp; II" },
+      "title": { "kanji": null, "occidental": "Lethal Enforcers I & II" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -50098,7 +50083,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ラブアンドデストロイ", "occidental": "Love &amp; Destroy" },
+      "title": { "kanji": "ラブアンドデストロイ", "occidental": "Love & Destroy" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -50487,7 +50472,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ルナティックドーンⅢ＆進め！海賊",
-        "occidental": "Lunatic Dawn III &amp; Susume! Kaizoku Promotion Disc"
+        "occidental": "Lunatic Dawn III & Susume! Kaizoku Promotion Disc"
       },
       "system": "psx",
       "version": "",
@@ -50596,7 +50581,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "M&amp;M's: Shell Shocked" },
+      "title": { "kanji": null, "occidental": "M&M's: Shell Shocked" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -50605,7 +50590,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "M&amp;M's: Shell Shocked" },
+      "title": { "kanji": null, "occidental": "M&M's: Shell Shocked" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -50614,7 +50599,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "M&amp;M's: Shell Shocked" },
+      "title": { "kanji": null, "occidental": "M&M's: Shell Shocked" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -50623,7 +50608,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "M&amp;M's: Shell Shocked" },
+      "title": { "kanji": null, "occidental": "M&M's: Shell Shocked" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -53212,7 +53197,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Mega Man: Battle &amp; Chase" },
+      "title": { "kanji": null, "occidental": "Mega Man: Battle & Chase" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -54555,7 +54540,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ミニ四駆爆走兄弟レッツ＆ゴー！！ＷＧＰハイパーヒート",
-        "occidental": "Mini Yonku Bakusou Kyoudai Let's &amp; Go!! WGP Hyper Heat"
+        "occidental": "Mini Yonku Bakusou Kyoudai Let's & Go!! WGP Hyper Heat"
       },
       "system": "psx",
       "version": "",
@@ -55450,7 +55435,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Mona &amp; Moki 1: Drive Me Wild!" },
+      "title": { "kanji": null, "occidental": "Mona & Moki 1: Drive Me Wild!" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -55459,7 +55444,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Mona &amp; Moki 2: Drive Me Wilder!" },
+      "title": { "kanji": null, "occidental": "Mona & Moki 2: Drive Me Wilder!" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -57672,7 +57657,7 @@
       "region": "Japan",
       "title": {
         "kanji": "大阪湾岸バトル　ターザン山田＆オートセレクト澤兄弟",
-        "occidental": "Naniwa Wangan Battle: Tarzan Yamada &amp; AutoSelect Sawa Kyoudai"
+        "occidental": "Naniwa Wangan Battle: Tarzan Yamada & AutoSelect Sawa Kyoudai"
       },
       "system": "psx",
       "version": "",
@@ -57684,7 +57669,7 @@
       "region": "Japan",
       "title": {
         "kanji": "大阪湾岸バトル　～ターザン山田＆オートセレクト澤兄弟～",
-        "occidental": "Naniwa Wangan Battle: Tarzan Yamada &amp; AutoSelect Sawa Kyoudai"
+        "occidental": "Naniwa Wangan Battle: Tarzan Yamada & AutoSelect Sawa Kyoudai"
       },
       "system": "psx",
       "version": "",
@@ -60324,7 +60309,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ＮＩＣＥ　ＰＲＩＣＥ　シリーズ　Ｖｏｌ．０３　花札＆カードゲーム",
-        "occidental": "Nice Price Series Vol. 03: Hanafuda &amp; Card Game"
+        "occidental": "Nice Price Series Vol. 03: Hanafuda & Card Game"
       },
       "system": "psx",
       "version": "",
@@ -60348,7 +60333,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ＮＩＣＥ　ＰＲＩＣＥ　シリーズ　Ｖｏｌ．０５　チェス＆リバーシ",
-        "occidental": "Nice Price Series Vol. 05: Chess &amp; Reversi"
+        "occidental": "Nice Price Series Vol. 05: Chess & Reversi"
       },
       "system": "psx",
       "version": "",
@@ -61191,7 +61176,7 @@
       "region": "Japan",
       "title": {
         "kanji": "西陣パチンコ徹底攻略　ＣＲ花満　速報＆ＣＲおばけらんど",
-        "occidental": "Nishijin Pachinko Tettei Kouryaku: CR Hanaman Sokuhou &amp; CR Obake Land"
+        "occidental": "Nishijin Pachinko Tettei Kouryaku: CR Hanaman Sokuhou & CR Obake Land"
       },
       "system": "psx",
       "version": "",
@@ -64131,7 +64116,7 @@
       "region": "Japan",
       "title": {
         "kanji": "パチスロ完全解析 ワイワイパルサー2・セブンティセブン2",
-        "occidental": "Pachi-Slot Kanzen Kaiseki: Wai Wai Pulsar 2 &amp; 77 2"
+        "occidental": "Pachi-Slot Kanzen Kaiseki: Wai Wai Pulsar 2 & 77 2"
       },
       "system": "psx",
       "version": "",
@@ -64410,7 +64395,7 @@
       "region": "Japan",
       "title": {
         "kanji": "パチスロ帝王　メーカー推奨マニュアル３ 　アイムエンジェル～ホワイト２＆ブルー２～",
-        "occidental": "Pachi-Slot Teiou: Maker Suishou Manual Vol. 3: I'm Angel: White 2 &amp; Blue 2"
+        "occidental": "Pachi-Slot Teiou: Maker Suishou Manual Vol. 3: I'm Angel: White 2 & Blue 2"
       },
       "system": "psx",
       "version": "",
@@ -64500,7 +64485,7 @@
       "region": "Japan",
       "title": {
         "kanji": "パチンコ＆パチスロ　パーラー！プロ　ＥＸ　ＣＲ・いなかっぺ大将Ａ＆パチスロ・ルパン三世",
-        "occidental": "Pachinko &amp; Pachi-Slot: Parlor! Pro Extra: CR Inakappe Taishou A &amp; Pachi-Slot Lupin Sansei"
+        "occidental": "Pachinko & Pachi-Slot: Parlor! Pro Extra: CR Inakappe Taishou A & Pachi-Slot Lupin Sansei"
       },
       "system": "psx",
       "version": "",
@@ -64530,7 +64515,7 @@
       "region": "Japan",
       "title": {
         "kanji": "パチンコ帝王　～ＣＲそれ打て浜ちゃん２・ＣＲそれゆけ松ちゃんＳ～",
-        "occidental": "Pachinko Teiou: CR Sore Ute Hama-chan 2 &amp; CR Sore Yuke Matchan S"
+        "occidental": "Pachinko Teiou: CR Sore Ute Hama-chan 2 & CR Sore Yuke Matchan S"
       },
       "system": "psx",
       "version": "",
@@ -64551,7 +64536,7 @@
       "region": "Japan",
       "title": {
         "kanji": "パチってちょんまげ２　～京楽公認・タヌ吉２０００＆ジャングルＰ～",
-        "occidental": "Pachitte Chonmage 2: Kyoraku Kounin Tanukichi 2000 &amp; Jungle P"
+        "occidental": "Pachitte Chonmage 2: Kyoraku Kounin Tanukichi 2000 & Jungle P"
       },
       "system": "psx",
       "version": "",
@@ -64563,7 +64548,7 @@
       "region": "Japan",
       "title": {
         "kanji": "パチってちょんまげ３　～京楽公認・グラディエーター＆玉ちゃん～",
-        "occidental": "Pachitte Chonmage 3: Kyoraku Kounin Gladiator &amp; Tama-chan"
+        "occidental": "Pachitte Chonmage 3: Kyoraku Kounin Gladiator & Tama-chan"
       },
       "system": "psx",
       "version": "",
@@ -64575,7 +64560,7 @@
       "region": "Japan",
       "title": {
         "kanji": "パチってちょんまげ　～応援団・Ｃ．Ｃ．ガールズ～",
-        "occidental": "Pachitte Chonmage: Ouendan &amp; C. C. Girls"
+        "occidental": "Pachitte Chonmage: Ouendan & C. C. Girls"
       },
       "system": "psx",
       "version": "",
@@ -65397,7 +65382,7 @@
       "region": "Japan",
       "title": {
         "kanji": "パーラープロ　スペシャル　ＣＲハレンチ学園＆ＣＲ闘魂",
-        "occidental": "Parlor! Pro Special: CR Harenchi Gakuen &amp; CR Toukon"
+        "occidental": "Parlor! Pro Special: CR Harenchi Gakuen & CR Toukon"
       },
       "system": "psx",
       "version": "",
@@ -68304,7 +68289,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ポケットデジモンワールド　クール＆ネイチャーバトルディスク",
-        "occidental": "Pocket DigimonWorld: Cool &amp; Nature Battle Disc"
+        "occidental": "Pocket DigimonWorld: Cool & Nature Battle Disc"
       },
       "system": "psx",
       "version": "",
@@ -72591,7 +72576,7 @@
       "region": "Japan",
       "title": {
         "kanji": "レスキューショット　ブービーぼー　＆　バイオハザード　～ガンサバイバー～　ガンコン対応シューティング体験版",
-        "occidental": "Rescue Shot Bubibo &amp; Biohazard: Gun Survivor: GunCon Taiou Shooting Taikenban"
+        "occidental": "Rescue Shot Bubibo & Biohazard: Gun Survivor: GunCon Taiou Shooting Taikenban"
       },
       "system": "psx",
       "version": "",
@@ -73289,7 +73274,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ＲＩＤＧＥ　ＲＡＣＥＲ　ハイスペックＶｅｒ．　＆　ＮＡＭＣＯ　ＣＡＴＡＬＯＧＵＥ´ ９８",
-        "occidental": "Ridge Racer: High Spec Ver. &amp; Namco Catalogue '98"
+        "occidental": "Ridge Racer: High Spec Ver. & Namco Catalogue '98"
       },
       "system": "psx",
       "version": "",
@@ -73301,7 +73286,7 @@
       "region": "Japan, Asia",
       "title": {
         "kanji": "ＲＩＤＧＥ　ＲＡＣＥＲ　ハイスペックＶｅｒ．　＆　ＮＡＭＣＯ　ＣＡＴＡＬＯＧＵＥ´ ９８",
-        "occidental": "Ridge Racer: High Spec Ver. &amp; Namco Catalogue '98"
+        "occidental": "Ridge Racer: High Spec Ver. & Namco Catalogue '98"
       },
       "system": "psx",
       "version": "",
@@ -73809,7 +73794,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Road &amp; Track Presents: The Need for Speed" },
+      "title": { "kanji": null, "occidental": "Road & Track Presents: The Need for Speed" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -73818,7 +73803,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Road &amp; Track Presents: The Need for Speed" },
+      "title": { "kanji": null, "occidental": "Road & Track Presents: The Need for Speed" },
       "system": "psx",
       "version": "",
       "edition": "Original, Greatest Hits",
@@ -74124,7 +74109,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Rock &amp; Roll Racing 2: Red Asphalt" },
+      "title": { "kanji": null, "occidental": "Rock & Roll Racing 2: Red Asphalt" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -74300,7 +74285,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ロックマンＸ４，ロックマン８　～メタル・ヒーローズ～，ロックマン　～バトル・チェイス～",
-        "occidental": "Rockman X4, Rockman 8: Metal Heroes, Rockman: Battle &amp; Chase"
+        "occidental": "Rockman X4, Rockman 8: Metal Heroes, Rockman: Battle & Chase"
       },
       "system": "psx",
       "version": "",
@@ -74337,7 +74322,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ロックマン　バトル＆チェイス", "occidental": "Rockman: Battle &amp; Chase" },
+      "title": { "kanji": "ロックマン　バトル＆チェイス", "occidental": "Rockman: Battle & Chase" },
       "system": "psx",
       "version": "",
       "edition": "PlayStation the Best for Family",
@@ -74346,7 +74331,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ロックマン　バトル＆チェイス", "occidental": "Rockman: Battle &amp; Chase" },
+      "title": { "kanji": "ロックマン　バトル＆チェイス", "occidental": "Rockman: Battle & Chase" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -74637,7 +74622,7 @@
     },
     {
       "region": "Europe",
-      "title": { "kanji": null, "occidental": "Roswell Conspiracies: Aliens, Myths &amp; Legends" },
+      "title": { "kanji": null, "occidental": "Roswell Conspiracies: Aliens, Myths & Legends" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -74646,7 +74631,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Roswell Conspiracies: Aliens, Myths &amp; Legends" },
+      "title": { "kanji": null, "occidental": "Roswell Conspiracies: Aliens, Myths & Legends" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -74709,7 +74694,7 @@
     },
     {
       "region": "Germany",
-      "title": { "kanji": null, "occidental": "Ruff &amp; Tumble" },
+      "title": { "kanji": null, "occidental": "Ruff & Tumble" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -74718,7 +74703,7 @@
     },
     {
       "region": "Netherlands",
-      "title": { "kanji": "Ruff & Tumble: De Droomkrijgers", "occidental": "Ruff &amp; Tumble" },
+      "title": { "kanji": "Ruff & Tumble: De Droomkrijgers", "occidental": "Ruff & Tumble" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -79157,7 +79142,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ＳＩＭＰＬＥ１５００シリーズ　Ｖｏｌ．３７　ＴＨＥ　イラストパズル＆スライドパズル",
-        "occidental": "Simple 1500 Series Vol. 37: The Illust Puzzle &amp; Slide Puzzle"
+        "occidental": "Simple 1500 Series Vol. 37: The Illust Puzzle & Slide Puzzle"
       },
       "system": "psx",
       "version": "",
@@ -80582,7 +80567,7 @@
       "region": "Europe",
       "title": {
         "kanji": "Slam 'n Jam '96 featuring Magic & Kareem: Signature Edition",
-        "occidental": "Slam 'n Jam '96 featuring Magic &amp; Kareem"
+        "occidental": "Slam 'n Jam '96 featuring Magic & Kareem"
       },
       "system": "psx",
       "version": "",
@@ -80592,7 +80577,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Slam 'n Jam '96 featuring Magic &amp; Kareem" },
+      "title": { "kanji": null, "occidental": "Slam 'n Jam '96 featuring Magic & Kareem" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -80700,7 +80685,7 @@
     },
     {
       "region": "USA",
-      "title": { "kanji": null, "occidental": "Sled Storm &amp; Medal of Honor Demo CD" },
+      "title": { "kanji": null, "occidental": "Sled Storm & Medal of Honor Demo CD" },
       "system": "psx",
       "version": "",
       "edition": "",
@@ -80729,7 +80714,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロット！プロ２　～爆裂大相撲・紅＆紫～",
-        "occidental": "Slot! Pro 2: Bakuretsu Oozumou Aka &amp; Murasaki"
+        "occidental": "Slot! Pro 2: Bakuretsu Oozumou Aka & Murasaki"
       },
       "system": "psx",
       "version": "",
@@ -80759,7 +80744,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロット！プロ５　～浪花桜吹雪＆島唄～",
-        "occidental": "Slot! Pro 5: Naniwa Sakura Fubuki &amp; Shimauta"
+        "occidental": "Slot! Pro 5: Naniwa Sakura Fubuki & Shimauta"
       },
       "system": "psx",
       "version": "",
@@ -80789,7 +80774,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロット！プロ８　～島娘３０＆花伝説２５～",
-        "occidental": "Slot! Pro 8: Shimamusume 30 &amp; Hana Densetsu 25"
+        "occidental": "Slot! Pro 8: Shimamusume 30 & Hana Densetsu 25"
       },
       "system": "psx",
       "version": "",
@@ -80819,7 +80804,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロッターマニア２　超熱３０Φ！ハナハナ＆キンバリー＆ハイシオ",
-        "occidental": "Slotter Mania 2: Chounetsu 30 Phi! Hana Hana &amp; KingBary &amp; Hai Hai Siosai"
+        "occidental": "Slotter Mania 2: Chounetsu 30 Phi! Hana Hana & KingBary & Hai Hai Siosai"
       },
       "system": "psx",
       "version": "",
@@ -80831,7 +80816,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロッターマニア３　爆量放出！　海人＆ファイアエレメント",
-        "occidental": "Slotter Mania 3: Bakuryou Houshutsu! Uminchu &amp; Fire Element"
+        "occidental": "Slotter Mania 3: Bakuryou Houshutsu! Uminchu & Fire Element"
       },
       "system": "psx",
       "version": "",
@@ -80843,7 +80828,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロッターマニア４　 激熱妖光！シオラー＆キングキャッスル＆兜",
-        "occidental": "Slotter Mania 4: Gekiatsu Youkou! Siolar &amp; King Castle &amp; Kabuto"
+        "occidental": "Slotter Mania 4: Gekiatsu Youkou! Siolar & King Castle & Kabuto"
       },
       "system": "psx",
       "version": "",
@@ -80855,7 +80840,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロッターマニア５激打真髄！　ハイパージャグラーＶ＆キタチャンカントリー＆ワンダーレビュー２",
-        "occidental": "Slotter Mania 5: Gekiuchi Shinzui! Hyper Juggler V &amp; Kita-chan Country &amp; Wonder Review 2"
+        "occidental": "Slotter Mania 5: Gekiuchi Shinzui! Hyper Juggler V & Kita-chan Country & Wonder Review 2"
       },
       "system": "psx",
       "version": "",
@@ -80867,7 +80852,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロッターマニア６　～爆裂再来！海神（２タイプ）＆ブルー・ラグーン～",
-        "occidental": "Slotter Mania 6: Bakuretsu Sairai! Wadatsumi (2 Types) &amp; Blue Lagoon"
+        "occidental": "Slotter Mania 6: Bakuretsu Sairai! Wadatsumi (2 Types) & Blue Lagoon"
       },
       "system": "psx",
       "version": "",
@@ -80891,7 +80876,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロッターマニア８　魅惑の宝箱！ジュエルマジック２＆ゴールドアンドシルバー",
-        "occidental": "Slotter Mania 8: Miwaku no Takarabako! Jewel Magic 2 &amp; Gold &amp; Silver"
+        "occidental": "Slotter Mania 8: Miwaku no Takarabako! Jewel Magic 2 & Gold & Silver"
       },
       "system": "psx",
       "version": "",
@@ -80903,7 +80888,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロッターマニア９　極熱３０φ！ハイビ＆スプラッシュセブン",
-        "occidental": "Slotter Mania 9: Gokunetsu 30 Phi! Haibi &amp; Splash Seven"
+        "occidental": "Slotter Mania 9: Gokunetsu 30 Phi! Haibi & Splash Seven"
       },
       "system": "psx",
       "version": "",
@@ -80927,7 +80912,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スロッターマニア外伝　超熱伝説！ゴールデンルーキー＆ファイアーＶ＆琉王",
-        "occidental": "Slotter Mania Gaiden: Chouatsu Densetsu! Golden Rookie &amp; Fire V &amp; Ryuuou"
+        "occidental": "Slotter Mania Gaiden: Chouatsu Densetsu! Golden Rookie & Fire V & Ryuuou"
       },
       "system": "psx",
       "version": "",
@@ -83175,7 +83160,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": null, "occidental": "Square's Preview Extra: FF VII Sample &amp; SIGGRAPH '95 Works" },
+      "title": { "kanji": null, "occidental": "Square's Preview Extra: FF VII Sample & SIGGRAPH '95 Works" },
       "system": "psx",
       "version": "",
       "edition": "Demo",
@@ -83540,7 +83525,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スターオーシャン　セカンドストーリー　＆　ハローチャーリー！！",
-        "occidental": "Star Ocean: The Second Story &amp; Hello Charlie!!"
+        "occidental": "Star Ocean: The Second Story & Hello Charlie!!"
       },
       "system": "psx",
       "version": "",
@@ -84476,7 +84461,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ストレイシープポーとメリーの大冒険",
-        "occidental": "Stray Sheep: The Adventure of Poe &amp; Merry"
+        "occidental": "Stray Sheep: The Adventure of Poe & Merry"
       },
       "system": "psx",
       "version": "",
@@ -84488,7 +84473,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ストレイシープポーとメリーの大冒険",
-        "occidental": "Stray Sheep: The Adventure of Poe &amp; Merry"
+        "occidental": "Stray Sheep: The Adventure of Poe & Merry"
       },
       "system": "psx",
       "version": "Rev 1",
@@ -85044,7 +85029,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "ストライダー飛竜１＆２ -体験版-", "occidental": "Strider Hiryuu 1 &amp; 2" },
+      "title": { "kanji": "ストライダー飛竜１＆２ -体験版-", "occidental": "Strider Hiryuu 1 & 2" },
       "system": "psx",
       "version": "",
       "edition": "Taikenban",
@@ -85055,7 +85040,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ストライダー飛竜１＆２（ストライダー飛竜）",
-        "occidental": "Strider Hiryuu 1 &amp; 2 (Disc 1) (Strider Hiryuu)"
+        "occidental": "Strider Hiryuu 1 & 2 (Disc 1) (Strider Hiryuu)"
       },
       "system": "psx",
       "version": "",
@@ -85067,7 +85052,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ストライダー飛竜１＆２（ストライダー飛竜２）",
-        "occidental": "Strider Hiryuu 1 &amp; 2 (Disc 2) (Strider Hiryuu 2)"
+        "occidental": "Strider Hiryuu 1 & 2 (Disc 2) (Strider Hiryuu 2)"
       },
       "system": "psx",
       "version": "",
@@ -85784,7 +85769,7 @@
       "region": "Korea",
       "title": {
         "kanji": "수퍼 라이트 베스트 Vol. 1: 코튼 오리지널 ＆ 블록 키퍼",
-        "occidental": "Super Lite Best Vol. 1: Cotton Original &amp; Block Keeper"
+        "occidental": "Super Lite Best Vol. 1: Cotton Original & Block Keeper"
       },
       "system": "psx",
       "version": "",
@@ -85796,7 +85781,7 @@
       "region": "Korea",
       "title": {
         "kanji": "수퍼 라이트 베스트 Vol. 2: 잔파인 ＆ 봄보트",
-        "occidental": "Super Lite Best Vol. 2: Sanvein &amp; Bomb Boat"
+        "occidental": "Super Lite Best Vol. 2: Sanvein & Bomb Boat"
       },
       "system": "psx",
       "version": "",
@@ -85853,7 +85838,7 @@
       "region": "Japan",
       "title": {
         "kanji": "スーパープライスシリーズ　「ブロック＆スイッチ」",
-        "occidental": "Super Price Series: Block &amp; Switch"
+        "occidental": "Super Price Series: Block & Switch"
       },
       "system": "psx",
       "version": "",
@@ -89732,7 +89717,7 @@
       "region": "Japan",
       "title": {
         "kanji": "テニスの王子様 スウェットアンドティアーズ",
-        "occidental": "Tennis no Oujisama: Sweat &amp; Tears"
+        "occidental": "Tennis no Oujisama: Sweat & Tears"
       },
       "system": "psx",
       "version": "",
@@ -89744,7 +89729,7 @@
       "region": "Japan",
       "title": {
         "kanji": "テニスの王子様 スウェットアンドティアーズ",
-        "occidental": "Tennis no Oujisama: Sweat &amp; Tears"
+        "occidental": "Tennis no Oujisama: Sweat & Tears"
       },
       "system": "psx",
       "version": "Rev 1",
@@ -90062,7 +90047,7 @@
       "region": "Japan",
       "title": {
         "kanji": "徹底解析　必勝パチスロ道場　～山佐＆パイオニア～",
-        "occidental": "Tettei Kaiseki: Hisshou Pachi-Slot Doujou: Yamasa &amp; Pioneer"
+        "occidental": "Tettei Kaiseki: Hisshou Pachi-Slot Doujou: Yamasa & Pioneer"
       },
       "system": "psx",
       "version": "",
@@ -90542,7 +90527,7 @@
       "region": "Japan",
       "title": {
         "kanji": "サンダーストーム＆ロードブラスター",
-        "occidental": "Thunder Storm &amp; Road Blaster (Disc 1) (Thunder Storm)"
+        "occidental": "Thunder Storm & Road Blaster (Disc 1) (Thunder Storm)"
       },
       "system": "psx",
       "version": "",
@@ -90554,7 +90539,7 @@
       "region": "Japan",
       "title": {
         "kanji": "サンダーストーム＆ロードブラスター",
-        "occidental": "Thunder Storm &amp; Road Blaster (Disc 2) (Road Blaster)"
+        "occidental": "Thunder Storm & Road Blaster (Disc 2) (Road Blaster)"
       },
       "system": "psx",
       "version": "",
@@ -90906,7 +90891,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "タイムギャル&忍者ハヤテ", "occidental": "Time Gal &amp; Ninja Hayate (Disc 1) (Time Gal)" },
+      "title": { "kanji": "タイムギャル&忍者ハヤテ", "occidental": "Time Gal & Ninja Hayate (Disc 1) (Time Gal)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -90915,10 +90900,7 @@
     },
     {
       "region": "Japan",
-      "title": {
-        "kanji": "タイムギャル&忍者ハヤテ",
-        "occidental": "Time Gal &amp; Ninja Hayate (Disc 2) (Ninja Hayate)"
-      },
+      "title": { "kanji": "タイムギャル&忍者ハヤテ", "occidental": "Time Gal & Ninja Hayate (Disc 2) (Ninja Hayate)" },
       "system": "psx",
       "version": "",
       "edition": "Original",
@@ -92325,7 +92307,7 @@
     },
     {
       "region": "France",
-      "title": { "kanji": null, "occidental": "Tomb Raider &amp; Blam! Machinehead" },
+      "title": { "kanji": null, "occidental": "Tomb Raider & Blam! Machinehead" },
       "system": "psx",
       "version": "",
       "edition": "",
@@ -93390,7 +93372,7 @@
     },
     {
       "region": "Japan",
-      "title": { "kanji": "「エッグ」「ずっといっしょ」", "occidental": "Toshiba Emi Egg &amp; Zutto Issho Demo Disc" },
+      "title": { "kanji": "「エッグ」「ずっといっしょ」", "occidental": "Toshiba Emi Egg & Zutto Issho Demo Disc" },
       "system": "psx",
       "version": "",
       "edition": "Taikenban",
@@ -95093,7 +95075,7 @@
       "region": "Japan",
       "title": {
         "kanji": "ウルトラマンティガ&ウルトラマンダイナ　～新たなる二つの光～",
-        "occidental": "Ultraman Tiga &amp; Ultraman Dyna: Arata naru Futatsu no Hikari"
+        "occidental": "Ultraman Tiga & Ultraman Dyna: Arata naru Futatsu no Hikari"
       },
       "system": "psx",
       "version": "",

@@ -4,9 +4,11 @@
   "description": "Simple web crawler to collect available serials within http://redump.org/",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node index.ts",
+    "start": "node index.js",
+    "start:dev": "ts-node src/index.ts",
     "prettier": "prettier . --config .prettierrc --write",
-    "build": "tsc"
+    "minify": "uglifyjs index.js --compress --mangle -o index.js",
+    "build": "npm run prettier && npx rollup -c rollup.config.js && npm run minify"
   },
   "repository": {
     "type": "git",
@@ -26,11 +28,11 @@
   "homepage": "https://github.com/ronniery/psx-serials#readme",
   "dependencies": {
     "axios": "^1.6.8",
-    "cheerio": "^1.0.0-rc.12",
-    "typescript": "^5.4.5"
+    "cheerio": "^1.0.0-rc.12"
   },
   "devDependencies": {
-    "@types/jest": "^29.5.12",
+    "typescript": "^5.4.5",
+    "uglify-js": "^3.17.4",
     "@types/node": "^20.12.8",
     "prettier": "^3.2.5",
     "rollup": "^4.17.2",

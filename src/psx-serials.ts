@@ -52,9 +52,10 @@ export class PSXSerial {
 
     return $rows.map((el) => {
       const sourceSerial = $(el).find('td:eq(6)').attr('title') || $(el).find('td:eq(6)').text();
-      const gameSerial = sourceSerial
-        ?.split(', ')
-        .map<string>((serial) => serial.trim().replace('#', '').replace(/\s/g, '-'));
+      const sourcePieces = sourceSerial?.split(', ');
+      const gameSerial = sourcePieces.map((serial: string): string =>
+        serial.trim().replace('#', '').replace(/\s/g, '-'),
+      );
 
       const region = $(el).find('td:eq(0) > img').attr('title');
       const title = {
@@ -62,7 +63,8 @@ export class PSXSerial {
         occidental: $(el)
           .find('td:eq(1) > a')
           ?.html()
-          ?.replace(/<br.*>/gi, ''),
+          ?.replace(/<br.*>/gi, '')
+          ?.replaceAll('&amp;', '&'),
       };
 
       const system = $(el).find('td:eq(2)').text().trim();

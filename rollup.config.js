@@ -5,11 +5,11 @@ module.exports = {
   input: ['src/index.ts'],
   output: {
     file: './index.js',
-    format: 'cjs'
+    format: 'cjs',
   },
   plugins: [
     typescript({
-      tsconfig: "tsconfig.json"
-    })
-  ]
-}
+      tsconfig: 'tsconfig.json',
+    }),
+  ],
+};
